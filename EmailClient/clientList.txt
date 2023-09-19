@@ -1,0 +1,17 @@
+Official : kamal, kamal@gmail.com, ceo
+Office_friend : vikrama, bahu, bahubahu@gmail.com, 1700/09/09
+Office_friend : sunil, sunil@gmail.com, manager, 1995/02/16
+Office_friend : sirimal, sirimal@gmail.com, accountant, 1988/06/01
+Official : saman, samansaman@yahoo.com, auditor
+Personal : nuwan, nuone, nuone@hotmail.com, 1999/09/09
+Office_friend : guruge, guruge@gmail.com, manager, 1986/12/16
+Office_friend : senarath, senarath@gmail.com, hr, 1985/11/10
+Personal : kumara, prince, prince@yahoo.com, 1979/09/09
+Official : Kamal, kamal@gmail.com, clerk
+Office_friend : somasinghe, some@yahoo.com, assistantmanager, 1975/08/12
+Personal : sirisoma, siri, sirisoma@gmail.com, 1968/07/01
+Personal : dimuthu, dimuthu, adimuthu2000@gmail.com, 2000/08/17
+Personal : dimuthu2, dimuthu, dimuthu.h.amaraweera@gmail.com, 2000/08/15
+Official : kamal, kamal@gmail.com, ceo
+Official : kasun, kasun@gmail.com, accountant
+Office_friend : kamalananda, kamal@gmail.com, security, 1978/06/14
